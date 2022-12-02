@@ -8,11 +8,11 @@
         <tbody>
         <tr>
             <td>Lâm Minh Tuấn</td>
-            <td>20520843@gm.uit.edu.vn</td>
+            <td><a href="mailto:20520843@gm.uit.edu.vn">20520843@gm.uit.edu.vn</a></td>
         </tr>
         <tr>
             <td>Đậu Văn Nam</td>
-            <td>20521626@gm.uit.edu.vn</td>
+            <td><a href="mailto:20521626@gm.uit.edu.vn">20521626@gm.uit.edu.vn</a></td>
         </tr>
         </tbody>
     </table>
