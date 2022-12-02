@@ -17,5 +17,6 @@
         </tbody>
     </table>
 Link nộp bài: <br />
-
+https://docs.google.com/forms/d/e/1FAIpQLSfYD9N-nbdlhrRc86YAHloIywJ2HcK9XnrDZFbINUZmGvR-bA/viewform?usp=sf_link
+<br />
 Deadline: 23:59 8/12/2022
