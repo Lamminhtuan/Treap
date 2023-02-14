@@ -1,4 +1,4 @@
-# Treap
+# Treap - Cấu trúc dữ liệu và giải thuật nâng cao
 **Nhóm 2 - Đậu Văn Nam - Lâm Minh Tuấn** <br />
  <table>
         <thead>
