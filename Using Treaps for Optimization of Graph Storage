@@ -1,0 +1,13 @@
+                                                         **Using Treaps for Optimization of Graph Storage**
+
+  Ma trận kề thường được sử dụng để biểu diễn đồ thị. 
+  Mục đích sử dụng treap là để tối ưu hóa khả năng lưu trữ đồ thị mà không cần sử dụng ma trận kề.
+  
+  Các vấn đề khi sử dụng ma trận kề để biểu diễn đồ thị:
+- Vấn đề chính liên quan đến việc sử dụng ma trận kề là nó có phân bổ mảng tĩnh và các mục cố định cho
+tăng kích thước của mạng tạo ra vấn đề trong quá trình chèn.
+- Thứ hai, cấp phát mảng động đòi hỏi nhiều thời gian hơn để tạo một mảng mới có kích thước tăng dần và sau đó di chuyển các mục
+từ mảng trước đó sang mảng mới và sau đó giải phóng mảng trước.
+- Cuối cùng, mặc dù ma trận kề biểu diễn đồ thị thì thưa nhưng mọi mục nhập null đều tốn bộ nhớ.
+
+![Alt text](RandomGraph.png?raw=true "Title")
